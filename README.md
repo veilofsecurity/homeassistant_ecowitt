@@ -3,6 +3,8 @@
 # Forked from garbled1/homeassistant_ecowitt
 Due to the original repo no longer being maintained, this fork fixes the bug in https://github.com/garbled1/homeassistant_ecowitt/issues/149#issuecomment-1535912016
 
+You will need to add this repo to HACS as a custom repository and make sure to choose the correct one when installing the integration.
+
 # Ecowitt Weather Station integration for home-assistant
 Ecowitt driver for homeassistant
 
