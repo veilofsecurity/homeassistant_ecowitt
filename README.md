@@ -1,9 +1,12 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
+# Forked from garbled1/homeassistant_ecowitt
+Due to the original repo no longer being maintained, this fork fixes the bug in https://github.com/garbled1/homeassistant_ecowitt/issues/149#issuecomment-1535912016
+
 # Ecowitt Weather Station integration for home-assistant
 Ecowitt driver for homeassistant
 
-![Bling](https://raw.githubusercontent.com/garbled1/homeassistant_ecowitt/master/md.images/overview.png)
+![Bling](https://raw.githubusercontent.com/veilofsecurity/homeassistant_ecowitt/master/md.images/overview.png)
 
 ## Configuration:
 
