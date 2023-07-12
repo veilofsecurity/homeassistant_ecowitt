@@ -1,4 +1,4 @@
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
 # Forked from garbled1/homeassistant_ecowitt
 Due to the original repo no longer being maintained, this fork fixes the bug in https://github.com/garbled1/homeassistant_ecowitt/issues/149#issuecomment-1535912016
